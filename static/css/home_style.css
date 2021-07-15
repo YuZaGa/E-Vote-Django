@@ -5,7 +5,7 @@ html, body {
     color: white;
   }
 html{
-    background-image: url('../static\img\bg2.jpg');
+    background-image: url('../img/bg3.jpg');
     background-size: cover;
 }
 body {
