@@ -2,7 +2,7 @@
 
 
 # Elect-ron
-A Django based enhancemed version of https://github.com/YuZaGa/E-Vote-CRUD-App which was made during TechAdrishta's Hackathon(2020).
+A Django based enhanced version of https://github.com/YuZaGa/E-Vote-CRUD-App which was made during TechAdrishta's Hackathon(2020).
 
 Elect-ron has been developed for college students to cast their votes anytime and from anywhere using browsers. The aim of this web app is to provide convenience to voters as well as officials who monitor the voting process. The app gives election results accurately and instantaneously.
 
