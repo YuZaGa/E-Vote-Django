@@ -19,18 +19,9 @@ It makes the work of poll admins easy as well with the feature of bulk import of
 <h2>Project snapshot</h2>
 <h3>Home section</h3>
 <div align="center">
-    <img src="" width="100%"</img> 
+    ![Demo GIF](./elect.gif) 
 </div>
 
-<h3>Details Section</h3>
-<div align="center">
-    <img src="" width="100%"</img> 
-</div>
-
-<h3>News Section</h3>
-<div align="center">
-    <img src="" width="100%"</img> 
-</div>
 
 <h2>Prerequisites</h2>
 <code>See the requirements.txt file</code>
