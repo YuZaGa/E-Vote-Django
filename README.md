@@ -10,6 +10,11 @@ The app has an easy to use interface “Login Screen” for voters where they ca
 
 It makes the work of poll admins easy as well with the feature of bulk import of users through CSV, XLXS etc files. This way only eligible candidates can vote in an election.
 
+## Features
+1. Poll CRUD Functionalities
+2. Bulk import eligible users through external files
+3. OTP Login(WIP)
+4. Option to display results to all/only admin
 
 <h2>Project snapshot</h2>
 <h3>Home section</h3>
