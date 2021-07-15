@@ -17,10 +17,8 @@ It makes the work of poll admins easy as well with the feature of bulk import of
 4. Option to display results to all/only admin
 
 <h2>Project snapshot</h2>
-<h3>Home section</h3>
-<div align="center">
     ![Demo GIF](./elect.gif) 
-</div>
+
 
 
 <h2>Prerequisites</h2>
