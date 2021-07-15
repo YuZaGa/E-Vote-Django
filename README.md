@@ -18,9 +18,9 @@ It makes the work of poll admins easy as well with the feature of bulk import of
 
 <h2>Project snapshot</h2>
 <h3>Home section</h3>
-<div align="center">
+
     ![Demo GIF](./elect.gif) 
-</div>
+
 
 
 <h2>Prerequisites</h2>
